@@ -8,7 +8,7 @@ URL: http://ec2-34-210-208-166.us-west-2.compute.amazonaws.com</br>
 Note: Login functions only work propertly when visit the site using the URL, and not when use the IP address.</br>
 
 
-**Tools & Software: **</br>
+**Tools & Software:**</br>
 AWS Lightsail, Ubuntu, Flask, Apache2, mod_wsgi, virtualenv, git, python-pip, postgresql</br>
 
 
@@ -46,7 +46,7 @@ DZ2cbnYpqisC188UwQjnzCNPoSJhMVxmNQ2QT5AtS+wJA1wVt+V89H4I94FerZIl
 771uyQPvaBQ8yw3kyKAF2wQxbPFqKsXMpm7Nx3tSsozFK+DjmDqP3lj9VgjcJZos
 esy6F9MCgYAPCu/6CSDXq7d+DEvlybrfIBhnDlRwezi5eq0OMSXTe4b7jTGkq8Bb
 02YHTKGKSq0LCBUDF6NvHnIcYjudoKJfHvxxtxisn/WwashSxJ9bMyeJrsWkwy+b
-2z1mi0vFhFaYkzx+gWnJq8FqHOuD1qduuJgCsXu+Dxv58wzYQ+MN5w==
+2z1mi0vFhFaYkzx+gWnJq8FqHOuD1qduuJgCsXu+Dxv58wzYQ+MN5w==</br>
 -----END RSA PRIVATE KEY-----
 </br>
 
