@@ -22,6 +22,8 @@ Initial Server Setup with Ubuntu 12.04: https://www.digitalocean.com/community/t
 
 **Notes to Reviewer:**</br>
 
+Passphrase: None (passphrase was left empty)
+
 grader</br>
 
 -----BEGIN RSA PRIVATE KEY-----
