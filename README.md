@@ -7,15 +7,18 @@ URL: http://ec2-34-210-208-166.us-west-2.compute.amazonaws.com</br>
 
 Note: Login functions only work propertly when visit the site using the URL, and not when use the IP address.</br>
 
+</br>
 
 **Tools & Software:**</br>
 AWS Lightsail, Ubuntu, Flask, Apache2, mod_wsgi, virtualenv, git, python-pip, postgresql</br>
 
+</br>
 
 **References:**</br>
 How To Deploy a Flask Application on an Ubuntu VPS: https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps</br>
 Initial Server Setup with Ubuntu 12.04: https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-12-04</br>
 
+</br>
 
 **Notes to Reviewer:**</br>
 
