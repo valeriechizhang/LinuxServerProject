@@ -5,10 +5,10 @@ IP address: 34.210.208.166
 SSH port: 2200
 URL: http://ec2-34-210-208-166.us-west-2.compute.amazonaws.com
 
-* Login functions only work propertly when visit the site using the URL, and not when use the IP address.
+Note: Login functions only work propertly when visit the site using the URL, and not when use the IP address.
 
 
-**Tools & Software: ***
+**Tools & Software: **
 AWS Lightsail, Ubuntu, Flask, Apache2, mod_wsgi, virtualenv, git, python-pip, postgresql
 
 
