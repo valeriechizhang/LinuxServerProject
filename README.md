@@ -1,26 +1,26 @@
 # LinuxServerProject
 
 **Site Info:**
-IP address: 34.210.208.166
-SSH port: 2200
-URL: http://ec2-34-210-208-166.us-west-2.compute.amazonaws.com
+IP address: 34.210.208.166</br>
+SSH port: 2200</br>
+URL: http://ec2-34-210-208-166.us-west-2.compute.amazonaws.com</br>
 
-Note: Login functions only work propertly when visit the site using the URL, and not when use the IP address.
+Note: Login functions only work propertly when visit the site using the URL, and not when use the IP address.</br>
 
 
 **Tools & Software: **
-AWS Lightsail, Ubuntu, Flask, Apache2, mod_wsgi, virtualenv, git, python-pip, postgresql
+AWS Lightsail, Ubuntu, Flask, Apache2, mod_wsgi, virtualenv, git, python-pip, postgresql</br>
 
 
 **References:**
-How To Deploy a Flask Application on an Ubuntu VPS: https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
-Initial Server Setup with Ubuntu 12.04: https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-12-04
+How To Deploy a Flask Application on an Ubuntu VPS: https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps</br>
+Initial Server Setup with Ubuntu 12.04: https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-12-04</br>
 
 
 **Notes to Reviewer:**
 
 grader
-===========================
+
 -----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEAtqGqAa0nYVoqhImmySmEJzE83lpWx7ooD1zgrPwt0VQViQhy
 sWlaXAIQ/9nhdc4cCAdaUv6eL1vLuv1U5IZgxjXLU1pYJ7CcXD5jUTKRHyD29q1L
@@ -51,5 +51,5 @@ esy6F9MCgYAPCu/6CSDXq7d+DEvlybrfIBhnDlRwezi5eq0OMSXTe4b7jTGkq8Bb
 
 
 grader.pub
-===========================
+
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC2oaoBrSdhWiqEiabJKYQnMTzeWlbHuigPXOCs/C3RVBWJCHKxaVpcAhD/2eF1zhwIB1pS/p4vW8u6/VTkhmDGNctTWlgnsJxcPmNRMpEfIPb2rUvVW2ZXXviNFnA7wNCCltIhGJuNGJNJslcckKYdvk8Ax+bkiIeY75t36/eakrUgZOlRfOxI0SVj/veqD1nn5ok6bGnKnG6ngralF0c9mwlSRSM5PBdVylQsBofM+qkK4RZDFa9CQsjjbzqx6nAF+sti48kD8u5Qqz9G4EfGpMkalPj0MDZq3aa5srET+vrekgJ+tvks6WKL1QpR1+3pAuU48dFai6ubeC39AVQp Chi@ZhangChis-MacBook-Pro.local
